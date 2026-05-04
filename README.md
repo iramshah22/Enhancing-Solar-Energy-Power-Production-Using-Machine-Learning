@@ -37,13 +37,21 @@ Target (Output):
 
 #### ⚙️ How It Works
 Load Data – Read the CSV file
+
 Clean & Prepare – Check data info
+
 Split Data – 80% training, 20% testing
+
 Scale Features 
+
 Train Models
+
 Test Models 
+
 Compare Results 
+
 Hyperparameter Tuning 
+
 Visualize 
 
 #### 📈 Evaluation Metrics
