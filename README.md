@@ -11,12 +11,17 @@ This project was built together as a team effort.
 
 ### 🧠 Models We Used
 We trained and tested 6 different Machine Learning models:
--- Linear Regression – Draws a straight line to predict values
--- Decision Tree – Asks yes/no questions to reach a decision
--- Random Forest – Uses many decision trees together for better accuracy
--- Gradient Boosting – Fixes mistakes step by step to improve results
--- Support Vector Machine (SVR) – Finds the best boundary line for prediction
--- Neural Network (MLP) – A simple brain-like network that learns patterns
+-->> Linear Regression – Draws a straight line to predict values
+
+-->> Decision Tree – Asks yes/no questions to reach a decision
+
+-->> Random Forest – Uses many decision trees together for better accuracy
+
+-->> Gradient Boosting – Fixes mistakes step by step to improve results
+
+-->> Support Vector Machine (SVR) – Finds the best boundary line for prediction
+
+-->> Neural Network (MLP) – A simple brain-like network that learns patterns
 
 #### 📊 Dataset
 File: Solar Power Plant Data.csv
