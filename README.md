@@ -79,7 +79,10 @@ Python	Programming language
 Pandas	Data handling
 Matplotlib	Charts & graphs
 Scikit-Learn	ML models
+
 ###### 🙏 Acknowledgements
 Special thanks to our teachers and mentors who guided us throughout this project.
-Project by: Laiba Kanwal, Alisha Tabasum, Syeda Irram
+
+Project by: Laiba Kanwal, Alisha Tabasum, Syeda Iram
+
 ⭐ If you like this project, give it a star on GitHub!
